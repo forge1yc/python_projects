@@ -75,4 +75,8 @@ import matplotlib.pyplot as plt
 #15-3 随机漫步
 
 
+#15-4 使用pygal模拟掷骰子
+
+#15-4-3  
+
 

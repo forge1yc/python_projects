@@ -29,9 +29,9 @@ while True:
 	#隐藏坐标轴
 	plt.axes().get_xaxis().set_visible(False)
 	plt.axes().get_yaxis().set_visible(False)
-
-	plt.show()#show 一定要放在最后
 	plt.tick_params(axis='both', which='major', labelsize=14)
+	plt.show()#show 一定要放在最后
+
 	keep_running=input("Make another walk?(y/n): ")
 	if keep_running =='n':
 		break
