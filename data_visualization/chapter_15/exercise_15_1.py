@@ -45,5 +45,5 @@ plt.ylabel('y_values',fontsize=14)
 plt.tick_params(axis='both',which='major',labelsize=14)
 plt.axis([0,5010,0,125175015001])
 plt.show()
-plt.savefig('这里可以保存名字',bbox_inches='tight')
+#plt.savefig('这里可以保存名字',bbox_inches='tight')
 
