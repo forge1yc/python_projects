@@ -19,15 +19,15 @@ rw.fill_walk()
 #分析结果IK
 frequencies=[]
 num=0
-while num<5001:
-	
+# while num<5001:
 
-for x in rw.x_values:
-	for y in range((-rw.num_points/2),(rw.num_points/2)):
-		if x in rw.x_values and y in rw.y_values:
 
-			frequency=results.count(value) #我曹，真的牛逼，这个函数这样用
-			frequencies.append(frequency)
+# for x in rw.x_values:
+# 	for y in range((-rw.num_points/2),(rw.num_points/2)):
+# 		if x in rw.x_values and y in rw.y_values:
+#
+# 			# frequency=results.count(value) #我曹，真的牛逼，这个函数这样用
+# 			# frequencies.append(frequency)
 
 # hist.x_labels=['2','3','4','5','6','7','8','9','10',"11",'12','13']
 hist=pygal.Bar()
