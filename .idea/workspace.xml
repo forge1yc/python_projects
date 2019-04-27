@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b6c84b66-55a0-446a-b80c-e15ce19a60be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_visualization/chapter_16/chapter_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_visualization/chapter_16/weather_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_visualization/API_AG.LND.IRIG.AG.ZS_DS2_en_csv_v2_10578607.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_visualization/API_EG.ELC.ACCS.ZS_DS2_en_csv_v2_10580107.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_visualization/chapter_16/总结.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data_visualization/chapter_16/总结.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,15 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visualization/chapter_16/death_valley_2014.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_visualization/chapter_16/exercise_16_7.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
-              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -46,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/data_visualization/chapter_16/Access_to_electricity.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="254">
-              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -54,11 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_visualization/chapter_16/总结.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_visualization/chapter_17/chapter_17.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -86,18 +92,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
               <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
-              <folding>
-                <element signature="e#24#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_visualization/chapter_16/gdp_world.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="e#24#35#0" expanded="true" />
               </folding>
@@ -152,6 +146,7 @@
         <option value="$PROJECT_DIR$/data_visualization/chapter_16/exercise_16_7.py" />
         <option value="$PROJECT_DIR$/data_visualization/chapter_16/Access_to_electricity.py" />
         <option value="$PROJECT_DIR$/data_visualization/chapter_16/总结.txt" />
+        <option value="$PROJECT_DIR$/data_visualization/chapter_17/chapter_17.py" />
       </list>
     </option>
   </component>
@@ -165,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -196,7 +191,7 @@
               <item name="Part_II_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Part_II_Project" type="462c0819:PsiDirectoryNode" />
               <item name="data_visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_16" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_17" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_visualization/chapter_16/Access_to_electricity.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_visualization/chapter_17/chapter_17.py" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -231,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Access_to_electricity">
+  <component name="RunManager" selected="Python.chapter_17">
     <configuration name="Access_to_electricity" type="PythonConfigurationType" factoryName="Python" folderName="chapter_16" nameIsGenerated="true">
       <module name="Part_II_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,6 +303,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_visualization/chapter_16/chapter_16_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter_17" type="PythonConfigurationType" factoryName="Python" folderName="chapter_17" nameIsGenerated="true">
+      <module name="Part_II_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\PycharmProjects\MyProjects\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_visualization/chapter_17" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_visualization/chapter_17/chapter_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -569,6 +585,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.chapter_15" />
       <item itemvalue="Python.die_visual" />
       <item itemvalue="Python.exercise_15_6" />
       <item itemvalue="Python.exercise_15_10" />
@@ -583,6 +600,7 @@
       <item itemvalue="Python.gdp_world" />
       <item itemvalue="Python.exercise_16_7" />
       <item itemvalue="Python.Access_to_electricity" />
+      <item itemvalue="Python.chapter_17" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -610,7 +628,7 @@
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49924356" visible="true" weight="0.31096563" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49924356" visible="true" weight="0.39443535" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -642,9 +660,7 @@
     <entry file="file://$PROJECT_DIR$/opening_report.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_visualization/chapter_15/这里可以保存名字.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data_visualization/chapter_15/这里可以保存名字.png" />
     <entry file="file://$PROJECT_DIR$/data_visualization/chapter_15/squares_plot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -918,7 +934,7 @@
     <entry file="file://$PROJECT_DIR$/data_visualization/chapter_16/exercise_16_7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
-          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -928,7 +944,7 @@
     <entry file="file://$PROJECT_DIR$/data_visualization/chapter_16/Access_to_electricity.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
-          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -937,8 +953,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_visualization/chapter_16/总结.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+          <folding>
+            <element signature="e#871#885#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_visualization/chapter_17/chapter_17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
         </state>
       </provider>
     </entry>
